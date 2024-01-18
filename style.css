@@ -1,35 +1,34 @@
 body {
     background-color: #000;
-      color: #fff;
-        font-family: 'Courier New', Courier, monospace;
-          display: flex;
-            justify-content: center;
-              align-items: center;
-                height: 100vh;
-                  margin: 0;
-                  }
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
 
-                  .container {
-                    text-align: center;
-                    }
+.container {
+    text-align: center;
+}
 
-                    video {
-                      border: 2px solid #fff;
-                        box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
-                        }
+video {
+    border: 2px solid #fff;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+}
 
-                        button {
-                          background-color: #fff;
-                            border: none;
-                              color: #000;
-                                padding: 10px 20px;
-                                  text-transform: uppercase;
-                                    font-weight: bold;
-                                      margin-top: 20px;
-                                        cursor: pointer;
-                                        }
+button {
+    background-color: #fff;
+    border: none;
+    color: #000;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 20px;
+    cursor: pointer;
+}
 
-                                        button:hover {
-                                          background-color: #ccc;
-                                          }
+button:hover {
+    background-color: #ccc;
 }
